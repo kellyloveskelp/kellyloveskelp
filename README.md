@@ -1,7 +1,7 @@
 <h1 align="center"> Hi I'm Kelly Morgan!</h1>
 
 <h2 align="left"> 🐟 Why do I love kelp?</h2>
-My mom coined the phrase as an way to encapsulate my passion for kelp forest ecosystems and work in shellfish and seaweed aquaculture. Whenever I'd share an update, she'd reply back in the family groupchat: #kellyloveskelp!
+My mom coined the phrase as an way to encapsulate my passion for kelp forest ecosystems and seaweed aquaculture. Whenever I'd share an aquatic update in the family groupchat, she'd reply back: #kellyloveskelp!
 
 ## ⛵️ Where have my passions led me?
 I'm currently working on my [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) at the [Bren School of Environmental Science & Management](https://bren.ucsb.edu/), UCSB. 
