@@ -1,4 +1,6 @@
-<h1 align="center"> My name's Kelly and I love kelp!</h1>
+<h1 align="center"> Hi I'm Kelly Morgan!</h1>
+<h2 align="left"> Why do I love kelp?</h2>
+My mom coined the phrase as an way to encapsulate my passion for kelp forest ecosystems and work in shellfish and seaweed aquaculture. Whenever I'd share an update, she'd reply back in the family groupchat: #kellyloveskelp !
   
 I'm a sailor, surfer, diver, and *major* seaweed enthusiast.
 
